@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://git.io/streak-stats">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=material-palenight&mode=weekly" />
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=blood&mode=weekly" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=gruvbox-duot&mode=weekly" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=gruvbox-light&mode=weekly" />
         </picture>
   </a>
 </p>
