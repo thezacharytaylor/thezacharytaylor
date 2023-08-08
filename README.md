@@ -1,3 +1,4 @@
+<!-- 
 <p align="center">
     <picture>
       <source
@@ -10,7 +11,8 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=thezacharytaylor&show_icons=true&hide=stars" />
     </picture>
-</p>
+</p> 
+-->
 <!-- Themes -->
 <!-- dark: soft-green, material-palenight, github-dark, hacker, tokyo, earth, github-green-purple, android-dark, git-dark, modern-lilac, modern-lilac2 -->
 <!-- light: blood, ice-gray, github-light, -->
