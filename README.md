@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Zachary%27s+Tech+Stack&fontFamily=Verdana&lineCount=1&theme=gotham&bg=%2304070C&badge=%230B1321&border=%230B1321&titleColor=%2325A98A&line1=html5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3Bjavascript%2Cjavascript%2CF7DF1D%3Bphp%2Cphp%2C777BB4%3BWordPress%2CWordPress%2C3858e9%3Bvue.js%2Cvue%2C42b983%3BSASS%2CSASS%2Cbf4080%3BTailwindCSS%2CTailwindCSS%2C3b82f6%3BBootstrap%2CBootstrap%2C8512FA%3BjQuery%2CjQuery%2C0769ad%3Bgatsby%2Cgatsby%2C663399%3Bgit%2Cgit%2CF05034%3Breact%2Creact%2C58a6ff%3Btypescript%2Ctypescript%2C777BB4%3BLua%2Clua%2C2B2D72%3Bshell+script%2Cshell+script%2C120F11%3Bapache%2Capache%2CD41F29%3Bnginx%2Cnginx%2C029639%3B" alt="Zachary's Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Zachary%27s+Tech+Stack&fontFamily=Verdana&lineCount=4&theme=gotham&bg=%2304070C&badge=%230B1321&border=%230B1321&titleColor=%2325A98A&line1=html5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3Bjavascript%2Cjavascript%2CF7DF1D%3Bphp%2Cphp%2C777BB4%3B&line2=WordPress%2CWordPress%2C3858e9%3Bvue.js%2Cvue%2C42b983%3BSASS%2CSASS%2Cbf4080%3BTailwindCSS%2CTailwindCSS%2C3b82f6%3BBootstrap%2CBootstrap%2C8512FA%3BjQuery%2CjQuery%2C0769ad%3Bgatsby%2Cgatsby%2C663399%3B&line3=git%2Cgit%2CF05034%3Breact%2Creact%2C58a6ff%3Btypescript%2Ctypescript%2C777BB4%3BLua%2Clua%2C2B2D72%3B&line4=shell+script%2Cshell+script%2C120F11%3Bapache%2Capache%2CD41F29%3Bnginx%2Cnginx%2C029639%3B" alt="Zachary's Tech Stack" />
 </p>
 
 <!-- Themes -->
