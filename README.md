@@ -29,7 +29,7 @@
                 srcset="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=catppuccin-mocha&mode=weekly" 
                 media="(prefers-color-scheme: dark)" />
             <source 
-                srcset="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=catppuccin-mocha&mode=weekly" 
+                srcset="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&theme=catppuccin-latte&mode=weekly" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github-readme-streak-stats.herokuapp.com?user=thezacharytaylor&mode=weekly" />
         </picture>
